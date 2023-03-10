@@ -1,9 +1,13 @@
 # Google_Website
-Using HTML and CSS, I made the main page of the Google website! <br />
-This is the website's link: https://GoogleWebsite.hyunwookkim.repl.co
+I made the main page of the Google website! <br />
 
-* Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+1. Demo
+  * https://GoogleWebsite.hyunwookkim.repl.co <br />
 
+2. Purpose of this Project
+  * To understand the grammar of HTML and CSS <br />
+  * To enhance familiarity with HTML and CSS <br />
+
+3. Techniques used
+  * HTML
+  * CSS
