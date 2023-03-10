@@ -5,7 +5,7 @@ I made the main page of the Google website! <br />
   * https://GoogleWebsite.hyunwookkim.repl.co <br />
 
 ### 2. Purpose of this Project ###
-  * To understand the grammar of HTML and CSS <br />
+  * To understand HTML and CSS grammar <br />
   * To enhance familiarity with HTML and CSS <br />
 
 ### 3. Techniques used ###
